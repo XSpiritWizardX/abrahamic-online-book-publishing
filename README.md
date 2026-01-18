@@ -1,3 +1,9 @@
 # abrahamic-online-book-publishing
 
-Christian book publishing website with bold editorial styling, catalog, services, and submission form.
+Project overview goes here.
+
+## Setup
+- Add setup steps here.
+
+## Development
+- Add dev commands here.
